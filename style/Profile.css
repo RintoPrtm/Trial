@@ -5,7 +5,6 @@
 
 body {
     font-family: sans-serif;
-    overflow-x: hidden;
 }
 
 /* Navbar */
@@ -119,7 +118,6 @@ nav ul li a:hover {
         justify-content: space-evenly;
         flex-direction: column;
         align-items: center;
-        transform: translateX(100%);
         opacity: 0;
         transition: all 1s;
         
@@ -127,7 +125,6 @@ nav ul li a:hover {
     }
 
     nav ul.slide {
-        transform: translate(0);
         background-color: rgb(78, 78, 78);
         right: 0;
         top: 73px;
