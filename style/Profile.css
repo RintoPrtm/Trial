@@ -113,7 +113,7 @@ nav ul li a:hover {
         position: absolute;
         right: 0;
         top: -73px;
-        height: 30vh;
+        height: 0;
         width: 30%;
         justify-content: space-evenly;
         flex-direction: column;
