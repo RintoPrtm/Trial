@@ -112,9 +112,8 @@ nav ul li a:hover {
 
     nav ul {
         position: absolute;
-        background-color: rgb(78, 78, 78);
         right: 0;
-        top: 73px;
+        top: -73px;
         height: 30vh;
         width: 30%;
         justify-content: space-evenly;
