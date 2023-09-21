@@ -114,7 +114,7 @@ nav ul li a:hover {
         right: 0;
         top: -73px;
         height: 0;
-        width: 30%;
+        width: 0;
         justify-content: space-evenly;
         flex-direction: column;
         align-items: center;
